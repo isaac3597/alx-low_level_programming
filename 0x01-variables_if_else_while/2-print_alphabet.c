@@ -2,9 +2,11 @@
 
 int main(void)
 {
-    /* A C programm to write the leteters A to z in small letterss
-     **/
-
+/**
+ * main - main function
+ * Description:printing alphabets in lowercase
+ * Return: Return
+ */
     char alphabet = 'a';
 
 
