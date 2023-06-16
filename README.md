@@ -1,1 +1,1 @@
-Learning about the new C programming
+README.md file for the descriptions of the C program files 
