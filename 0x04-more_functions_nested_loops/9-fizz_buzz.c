@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main -It will be able to  print the numbers from 1 to 100, followed by a new line
+ * main -It will be able to  print the numbers from 1 to 100, followed by a ne
  * but for multiples of three prints Fizz instead of the number 
  * Return: Always 0 (Success)
  */
