@@ -1,4 +1,3 @@
-#include "main.h"
 #include <unistd.h>
 /**
  * _putchar -Will be able to help in  writing the character c to stdout
