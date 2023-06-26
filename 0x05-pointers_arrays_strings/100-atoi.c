@@ -2,10 +2,9 @@
 
 /**
  * _atoi - Helps to be able to convert a string to an integer
- * @s: string to converte
- * 
- * Return: the int converted 
- */
+ * @s: string to converted
+ * Return: the int converted
+ **/
 int _atoi(char *s)
 {
 	int i, d, n, len, f, digit;
